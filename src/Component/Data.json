@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "name":"Cam",
+        "tel":"0354738345",
+        "Permission":"1"
+    },
+    {
+        "id":"2",
+        "name":"Ironman",
+        "tel":"0364574574",
+        "Permission":"2"
+    },
+    {
+        "id":"3",
+        "name":"Quyt",
+        "tel":"036574337",
+        "Permission":"3"
+    },
+    {
+        "id":"4",
+        "name":"Táo",
+        "tel":"0364162457",
+        "Permission":"1"
+    }
+]
